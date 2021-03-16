@@ -324,8 +324,8 @@ const Index = (props) => {
               variants={textVariant(3.5)}
               initial="initial"
               animate="animate">
-              Lorem ipsum and some other shit i'm suppose to type in here, take
-              all this nonsense, you can have it right here, get your nonsense here
+              May this day be as bright as your smile, as beautiful as your eyes, and as lovely as the heart
+              within you. Have a wonderful day!
             </motion.span>
           </Typography>
         </Grid>
